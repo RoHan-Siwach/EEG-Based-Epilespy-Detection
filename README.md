@@ -20,7 +20,7 @@ Epilepsy is a neurological disorder characterized by recurrent seizures, and ear
 
 ## Data Collection and Preparation
 ### Data Source
-The EEG data used in this project is sourced from a publicly available dataset on Kaggle, specifically related to epilepsy. The dataset contains EEG recordings labeled as epileptic or non-epileptic. 
+The EEG data used in this project is sourced from a publicly available dataset on [Kaggle](https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition), specifically related to epilepsy. The dataset contains EEG recordings labeled as epileptic or non-epileptic.
 
 ### Data Types and Attributes
 - **EEG Data**: Core EEG recordings, which capture brain activity and are instrumental in detecting abnormal patterns associated with epilepsy.
