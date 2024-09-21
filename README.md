@@ -79,4 +79,4 @@ The EEG data used in this project is sourced from a publicly available dataset o
 ## Contributors
 1. [Rohan Siwach]([https://github.com/RoHan-Siwach])
 2. [Mohd Owais Khan](https://githubcom/owaiskhan123)
-3. [Ayush Singh](https://githubcom/ayush-singh)
+3. [Ayush Singh](https://github.com/SINGH01751)
