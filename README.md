@@ -1,6 +1,6 @@
 # EEG-Based Epilepsy Detection
 
-This project aims to develop a machine learning-based system for the early detection of epilepsy using EEG data. By applying deep learning models like Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN), the system analyzes EEG signals to identify patterns that indicate epileptic seizures. The ultimate goal is to create a scalable, reliable system that can be integrated into clinical settings for timely epilepsy diagnosis and treatment.
+This project aims to develop a machine learning-based system for the early detection of epilepsy using EEG data. By applying deep learning models like Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN), the system analyzes EEG signals to identify patterns that indicate epileptic seizures. The ultimate goal is to create a scalable, reliable system that can be integrate into clinical settings for timely epilepsy diagnosis and treatment.
 
 ## Table of Contents
 1. [Introduction](#introduction)
